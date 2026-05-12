@@ -30,3 +30,21 @@ https://github.com/maria-janet22/ai-spend-intelligence.git
 ## Note
 
 If OpenAI API credits are unavailable, the application gracefully displays a fallback AI summary message.
+
+# Screenshots
+
+## Home Page
+
+![Home](./home.png)
+
+---
+
+## Audit Page
+
+![Audit](./audit.png)
+
+---
+
+## Analytics Dashboard
+
+![Analytics](./analytics.png)
