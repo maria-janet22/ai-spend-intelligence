@@ -101,7 +101,7 @@ export default function AnalyticsPage() {
           </h2>
 
           <p className="text-4xl font-bold text-pink-400">
-            ${totalSpend}
+            {totalSpend}
           </p>
         </div>
 
@@ -111,7 +111,7 @@ export default function AnalyticsPage() {
           </h2>
 
           <p className="text-4xl font-bold text-green-400">
-            ${totalSavings}
+            {totalSavings}
           </p>
         </div>
 
