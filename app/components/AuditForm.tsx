@@ -47,14 +47,14 @@ export default function AuditForm() {
   localStorage.setItem(
     "auditData",
     JSON.stringify({
-  company,
-  role,
-  tool,
-  tool2,
-  spend,
-  spend2,
-  people,
-  people2,
+    company,
+    role,
+    tool,
+    tool2,
+    spend,
+    spend2,
+    people,
+    people2,
     })
   );
 }, [
@@ -63,9 +63,9 @@ export default function AuditForm() {
   tool,
   tool2,
   spend,
-spend2,
-people,
-people2,
+  spend2,
+  people,
+  people2,
 ]);
 
 
